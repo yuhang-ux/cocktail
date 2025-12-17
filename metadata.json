@@ -1,0 +1,7 @@
+{
+  "name": "Soul Bar",
+  "description": "An art-therapy-inspired cocktail mixing app for emotional release and creative expression.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
